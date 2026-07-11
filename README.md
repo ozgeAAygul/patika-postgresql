@@ -5,3 +5,4 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 ## Assignments
 
 - Assignment 1 – SELECT, WHERE and Logical Operators
+- Assignment 2 – BETWEEN and IN
