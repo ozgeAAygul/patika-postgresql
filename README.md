@@ -7,3 +7,4 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 - Assignment 1 – SELECT, WHERE and Logical Operators
 - Assignment 2 – BETWEEN and IN
 - Assignment 3 – LIKE and ILIKE
+- Assignment 4 – DISTINCT and COUNT
