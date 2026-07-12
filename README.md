@@ -8,3 +8,4 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 - Assignment 2 – BETWEEN and IN
 - Assignment 3 – LIKE and ILIKE
 - Assignment 4 – DISTINCT and COUNT
+- Assignment 5 - ORDER BY, LIMIT and OFFSET
