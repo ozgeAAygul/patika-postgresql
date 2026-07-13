@@ -9,4 +9,5 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 - Assignment 3 – LIKE and ILIKE
 - Assignment 4 – DISTINCT and COUNT
 - Assignment 5 - ORDER BY, LIMIT and OFFSET
-- Assignment 6 - Aggregate Functions (MIN, MAX, AVG, SUM, COUNT) 
+- Assignment 6 - Aggregate Functions (MIN, MAX, AVG, SUM, COUNT)
+- Assignment 7 - GROUP BY and HAVING
