@@ -11,3 +11,4 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 - Assignment 5 - ORDER BY, LIMIT and OFFSET
 - Assignment 6 - Aggregate Functions (MIN, MAX, AVG, SUM, COUNT)
 - Assignment 7 - GROUP BY and HAVING
+- Assignment 8 - Creating Tables, Dropping Tables, Updating Data and Deleting Data
