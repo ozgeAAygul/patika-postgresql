@@ -14,3 +14,4 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 - Assignment 8 - Creating Tables, Dropping Tables, Updating Data and Deleting Data
 - Assignment 9 - INNER JOIN
 - Assignment 10 - LEFT JOIN, RIGHT JOIN and FULL JOIN
+- Assignment 11 - UNION, INTERSECT and EXCEPT
