@@ -15,3 +15,4 @@ This repository contains my PostgreSQL assignments completed during the Patika.d
 - Assignment 9 - INNER JOIN
 - Assignment 10 - LEFT JOIN, RIGHT JOIN and FULL JOIN
 - Assignment 11 - UNION, INTERSECT and EXCEPT
+- Assignment 12 - Subqueries
